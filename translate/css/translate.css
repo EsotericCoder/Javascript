@@ -1,0 +1,19 @@
+/*
+Rene Jerez
+CIS 114
+translate.js
+final
+date: December 19 2014
+*/
+
+body {
+	font-size: 16px;
+}
+
+p, span, div, li, a, input, button {
+	font-family: helvetica, sans-serif;
+}
+
+h1, h2 {
+	font-family: helvetica, sans-serif;
+}

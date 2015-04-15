@@ -1,0 +1,61 @@
+/*
+William Kim
+williamkim1@my.smccd.edu
+CIS114OL
+styles.css
+Midterm 2
+11/12/2014
+*/
+/* From: http://www.assemblesoft.com/examples/form/simpleform.html */
+* {margin:0; padding:0;}
+
+html {
+	font: 90%/1.3 arial,sans-serif;
+	padding:1em;
+	background:#B9C2CC;
+}
+form {
+	background:#fff;
+	padding:1em;
+	border:1px solid #eee;
+}
+
+fieldset div {
+	margin:0.3em;
+	clear:both;
+}
+
+form {
+	margin:1em;
+	width:25em;
+}
+
+label {
+	float:none;
+	width:12em;
+	display:block;
+	clear:both;
+}
+
+legend {
+	color:#0b77b7;
+	font-size:1.4em;
+}
+legend span {
+	width:10em;
+	text-align:right;
+
+} 
+fieldset {
+	border:1px solid #ddd;
+	padding:0 0.5em 0.5em;
+}
+#title {
+	font-size:3em;
+	font-weight: bold;
+}
+#secondMenu{
+	margin-top: 0.2em;
+}
+
+

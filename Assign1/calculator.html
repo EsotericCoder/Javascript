@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>William Kim's Calculator</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- calculator.html -->
+    <form action="" method="post" id="calcForm">
+        <fieldset>
+			<div><label for="principal">Initial Investment</label><input type="text"
+                name="principal" id="principal" required></div>
+            <div><label for="interest">Interest Rate</label><input type="text"
+                name="interest" id="interest" required></div>
+            <div><label for="years">Number Of Years</label><input type="text"
+                name="years" id="years" required></div>
+            <div><label for="result">Result</label><textarea name="result"
+                id="result"></textarea></div>
+            <div><input type="submit" value="Submit" id="submit"></div>
+        </fieldset>
+    </form>
+    <script src="js/calculator.js"></script>
+</body>
+</html>

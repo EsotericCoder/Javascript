@@ -1,0 +1,29 @@
+/*
+//William Kim
+//williamkim1@my.smccd.edu
+//CIS114
+//slide.css
+//Assignment7
+//12/01/2014
+*/
+
+#slider {
+    width: 604px;
+    height: 500px;
+    overflow: hidden;
+}
+
+#slider .slides {
+    display: block;
+    width: 6040px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide {
+    float: left;
+    list-style-type: none;
+    width: 604px;
+    height: 500px;
+}

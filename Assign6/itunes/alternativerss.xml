@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=21</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=20/explicit=true/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Alternative</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Wed, 26 Nov 2014 03:41:08 -0800</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2014-11-26T03:41:08-08:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Foulbrood - Two Inch Astronaut</title>
+    <link>https://itunes.apple.com/album/foulbrood/id934568313?uo=1&amp;v0=9988</link>
+    <description>Foulbrood by Two Inch Astronaut</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/foulbrood/id934568313?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/36/e9/67/36e96797-de5f-449c-539f-6de2c1e419bc/889176024474.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/foulbrood/id934568313?uo=1&v0=9988">Foulbrood</a></B><br>
+						<a href="https://itunes.apple.com/artist/two-inch-astronaut/id559941476?uo=1&v0=9988">Two Inch Astronaut</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative-punk/id1006?uo=1&v0=9988">Punk</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Exploding In Sound Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative-punk/id1006?uo=1&amp;v0=9988">Punk</category>
+    <itms:artist>Two Inch Astronaut</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/two-inch-astronaut/id559941476?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Foulbrood</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/foulbrood/id934568313?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.90</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/36/e9/67/36e96797-de5f-449c-539f-6de2c1e419bc/889176024474.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/36/e9/67/36e96797-de5f-449c-539f-6de2c1e419bc/889176024474.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/36/e9/67/36e96797-de5f-449c-539f-6de2c1e419bc/889176024474.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Exploding In Sound Records</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Chasing Lions - EP - Lee Miller</title>
+    <link>https://itunes.apple.com/album/chasing-lions-ep/id942813200?uo=1&amp;v0=9988</link>
+    <description>Chasing Lions - EP by Lee Miller</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/chasing-lions-ep/id942813200?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/13/f0/aa/13f0aabb-cf58-9195-1df9-0b2a83da8ae0/888295190626.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/chasing-lions-ep/id942813200?uo=1&v0=9988">Chasing Lions - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/lee-miller/id5151995?uo=1&v0=9988">Lee Miller</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.96</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Lee Miller</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Lee Miller</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lee-miller/id5151995?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Chasing Lions - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/chasing-lions-ep/id942813200?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.96</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/13/f0/aa/13f0aabb-cf58-9195-1df9-0b2a83da8ae0/888295190626.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/13/f0/aa/13f0aabb-cf58-9195-1df9-0b2a83da8ae0/888295190626.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/13/f0/aa/13f0aabb-cf58-9195-1df9-0b2a83da8ae0/888295190626.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Lee Miller</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Complexities - Decade of the Dead Arcade</title>
+    <link>https://itunes.apple.com/album/complexities/id945125593?uo=1&amp;v0=9988</link>
+    <description>Complexities by Decade of the Dead Arcade</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/complexities/id945125593?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/ba/79/fa/ba79fad6-9abe-2eda-2467-31473ec3c707/889211076918.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/complexities/id945125593?uo=1&v0=9988">Complexities</a></B><br>
+						<a href="https://itunes.apple.com/artist/decade-of-the-dead-arcade/id945125594?uo=1&v0=9988">Decade of the Dead Arcade</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.92</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Decade of the Dead Arcade</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Decade of the Dead Arcade</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/decade-of-the-dead-arcade/id945125594?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Complexities</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/complexities/id945125593?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.92</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/ba/79/fa/ba79fad6-9abe-2eda-2467-31473ec3c707/889211076918.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/ba/79/fa/ba79fad6-9abe-2eda-2467-31473ec3c707/889211076918.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/ba/79/fa/ba79fad6-9abe-2eda-2467-31473ec3c707/889211076918.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Decade of the Dead Arcade</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Superstar Live in Seattle - Single - Sweet Water</title>
+    <link>https://itunes.apple.com/album/superstar-live-in-seattle/id941976846?uo=1&amp;v0=9988</link>
+    <description>Superstar Live in Seattle - Single by Sweet Water</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/superstar-live-in-seattle/id941976846?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/5b/50/46/5b5046c6-4706-52e8-1c9d-cd1800a606df/889176055294.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/superstar-live-in-seattle/id941976846?uo=1&v0=9988">Superstar Live in Seattle - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/sweet-water/id201527955?uo=1&v0=9988">Sweet Water</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Sweet Water Rocks, LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Sweet Water</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/sweet-water/id201527955?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Superstar Live in Seattle - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/superstar-live-in-seattle/id941976846?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/5b/50/46/5b5046c6-4706-52e8-1c9d-cd1800a606df/889176055294.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/5b/50/46/5b5046c6-4706-52e8-1c9d-cd1800a606df/889176055294.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/5b/50/46/5b5046c6-4706-52e8-1c9d-cd1800a606df/889176055294.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Sweet Water Rocks, LLC</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Oxygen - EP - Swans</title>
+    <link>https://itunes.apple.com/album/oxygen-ep/id931163633?uo=1&amp;v0=9988</link>
+    <description>Oxygen - EP by Swans</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/oxygen-ep/id931163633?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/3a/b3/33/3ab3333c-243e-1e55-2b92-febac646125c/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/oxygen-ep/id931163633?uo=1&v0=9988">Oxygen - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/swans/id5580746?uo=1&v0=9988">Swans</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.96</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Young God Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Swans</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/swans/id5580746?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Oxygen - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/oxygen-ep/id931163633?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.96</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/3a/b3/33/3ab3333c-243e-1e55-2b92-febac646125c/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/3a/b3/33/3ab3333c-243e-1e55-2b92-febac646125c/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/3a/b3/33/3ab3333c-243e-1e55-2b92-febac646125c/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Young God Records</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Kid - EP - Rigoletto</title>
+    <link>https://itunes.apple.com/album/kid-ep/id935829133?uo=1&amp;v0=9988</link>
+    <description>Kid - EP by Rigoletto</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/kid-ep/id935829133?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/05/9f/6a/059f6a57-17b2-e872-b99a-708d5d0363d1/859713585928_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/kid-ep/id935829133?uo=1&v0=9988">Kid - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/rigoletto/id305267998?uo=1&v0=9988">Rigoletto</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.95</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Independent</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Rigoletto</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/rigoletto/id305267998?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Kid - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/kid-ep/id935829133?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.95</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/05/9f/6a/059f6a57-17b2-e872-b99a-708d5d0363d1/859713585928_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/05/9f/6a/059f6a57-17b2-e872-b99a-708d5d0363d1/859713585928_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/05/9f/6a/059f6a57-17b2-e872-b99a-708d5d0363d1/859713585928_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Independent</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Boy Who Cried Thunder - EP - Daniel Wilson</title>
+    <link>https://itunes.apple.com/album/boy-who-cried-thunder-ep/id937839265?uo=1&amp;v0=9988</link>
+    <description>Boy Who Cried Thunder - EP by Daniel Wilson</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/boy-who-cried-thunder-ep/id937839265?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/ec/ad/d9/ecadd9ac-f705-089f-de8f-e4e3eee0bbd7/5054227047343_1.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/boy-who-cried-thunder-ep/id937839265?uo=1&v0=9988">Boy Who Cried Thunder - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/daniel-wilson/id204285197?uo=1&v0=9988">Daniel Wilson</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Zap Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Daniel Wilson</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/daniel-wilson/id204285197?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Boy Who Cried Thunder - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/boy-who-cried-thunder-ep/id937839265?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/ec/ad/d9/ecadd9ac-f705-089f-de8f-e4e3eee0bbd7/5054227047343_1.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/ec/ad/d9/ecadd9ac-f705-089f-de8f-e4e3eee0bbd7/5054227047343_1.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/ec/ad/d9/ecadd9ac-f705-089f-de8f-e4e3eee0bbd7/5054227047343_1.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Zap Records</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Last Chance to Dance - C.J. Ramone</title>
+    <link>https://itunes.apple.com/album/last-chance-to-dance/id921027159?uo=1&amp;v0=9988</link>
+    <description>Last Chance to Dance by C.J. Ramone</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/last-chance-to-dance/id921027159?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music4/v4/e5/ae/8c/e5ae8cf1-b01c-593e-af4d-65bef4198272/CJRamone_LP_1500x1500.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/last-chance-to-dance/id921027159?uo=1&v0=9988">Last Chance to Dance</a></B><br>
+						<a href="https://itunes.apple.com/artist/c.j.-ramone/id281141312?uo=1&v0=9988">C.J. Ramone</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative-punk/id1006?uo=1&v0=9988">Punk</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Fat Wreck Chords</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative-punk/id1006?uo=1&amp;v0=9988">Punk</category>
+    <itms:artist>C.J. Ramone</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/c.j.-ramone/id281141312?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Last Chance to Dance</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/last-chance-to-dance/id921027159?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music4/v4/e5/ae/8c/e5ae8cf1-b01c-593e-af4d-65bef4198272/CJRamone_LP_1500x1500.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music4/v4/e5/ae/8c/e5ae8cf1-b01c-593e-af4d-65bef4198272/CJRamone_LP_1500x1500.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music4/v4/e5/ae/8c/e5ae8cf1-b01c-593e-af4d-65bef4198272/CJRamone_LP_1500x1500.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Fat Wreck Chords</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Room For Forgiveness - Single - Hamilton Leithauser</title>
+    <link>https://itunes.apple.com/album/room-for-forgiveness-single/id943562889?uo=1&amp;v0=9988</link>
+    <description>Room For Forgiveness - Single by Hamilton Leithauser</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/room-for-forgiveness-single/id943562889?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/d3/5f/63/d35f631a-1952-80fe-41ed-727e3aa07ba7/RoomForForgiveness.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/room-for-forgiveness-single/id943562889?uo=1&v0=9988">Room For Forgiveness - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/hamilton-leithauser/id289847086?uo=1&v0=9988">Hamilton Leithauser</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 25, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Ribbon Music, LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Hamilton Leithauser</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/hamilton-leithauser/id289847086?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Room For Forgiveness - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/room-for-forgiveness-single/id943562889?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/d3/5f/63/d35f631a-1952-80fe-41ed-727e3aa07ba7/RoomForForgiveness.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/d3/5f/63/d35f631a-1952-80fe-41ed-727e3aa07ba7/RoomForForgiveness.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/d3/5f/63/d35f631a-1952-80fe-41ed-727e3aa07ba7/RoomForForgiveness.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Ribbon Music, LLC</itms:rights>
+    
+        <itms:releasedate>November 25, 2014</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Ixora - Copeland</title>
+    <link>https://itunes.apple.com/album/ixora/id933415538?uo=1&amp;v0=9988</link>
+    <description>Ixora by Copeland</description>
+    <pubDate>Wed, 26 Nov 2014 03:41:08 -0800</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/ixora/id933415538?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/69/42/15/6942158d-211c-16db-9367-5c24a815bd93/886444882460.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/ixora/id933415538?uo=1&v0=9988">Ixora</a></B><br>
+						<a href="https://itunes.apple.com/artist/copeland/id16868?uo=1&v0=9988">Copeland</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 24, 2014<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Tooth &amp; Nail Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Copeland</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/copeland/id16868?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Ixora</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/ixora/id933415538?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/69/42/15/6942158d-211c-16db-9367-5c24a815bd93/886444882460.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/69/42/15/6942158d-211c-16db-9367-5c24a815bd93/886444882460.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/69/42/15/6942158d-211c-16db-9367-5c24a815bd93/886444882460.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Tooth &amp; Nail Records</itms:rights>
+    
+        <itms:releasedate>November 24, 2014</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
