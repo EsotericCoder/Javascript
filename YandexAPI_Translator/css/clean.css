@@ -1,0 +1,26 @@
+body {
+    font: 75% Verdana, Helvetica, Arial, sans-serif;
+    background: Black;
+    color: White;
+    margin: 1em;
+    padding: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: White;
+    clear: left;
+    font: 100% Verdana, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding-left: 0.5em;
+} 
+
+p {
+    color: White;
+    font: 100% Verdana, Helvetica, Arial, sans-serif;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+li {
+    margin-bottom: 1em;
+}
